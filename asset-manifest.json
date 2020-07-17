@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c5ee0cd9.chunk.css",
+    "main.js": "/Portfolio/static/js/main.6d2401b3.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6d2401b3.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.25f07560.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.25f07560.js.map",
+    "static/js/2.eac93596.chunk.js": "/Portfolio/static/js/2.eac93596.chunk.js",
+    "static/js/2.eac93596.chunk.js.map": "/Portfolio/static/js/2.eac93596.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.cbb63f2503d71560a49d76f554f16f35.js": "/Portfolio/precache-manifest.cbb63f2503d71560a49d76f554f16f35.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.c5ee0cd9.chunk.css.map": "/Portfolio/static/css/main.c5ee0cd9.chunk.css.map",
+    "static/js/2.eac93596.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.eac93596.chunk.js.LICENSE.txt",
+    "static/media/EmployScreen1.PNG": "/Portfolio/static/media/EmployScreen1.49d691f4.PNG",
+    "static/media/LetsGuess.PNG": "/Portfolio/static/media/LetsGuess.fb1bd075.PNG",
+    "static/media/Pizza.PNG": "/Portfolio/static/media/Pizza.6957237c.PNG",
+    "static/media/Screenshot.PNG": "/Portfolio/static/media/Screenshot.5c6dd974.PNG",
+    "static/media/Work day scheduler.PNG": "/Portfolio/static/media/Work day scheduler.db182b93.PNG",
+    "static/media/mePic.jpg": "/Portfolio/static/media/mePic.e29b57ab.jpg",
+    "static/media/trailheads.PNG": "/Portfolio/static/media/trailheads.2cc86e6e.PNG",
+    "static/media/weatherdash.PNG": "/Portfolio/static/media/weatherdash.fa66c0dd.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f07560.js",
+    "static/js/2.eac93596.chunk.js",
+    "static/css/main.c5ee0cd9.chunk.css",
+    "static/js/main.6d2401b3.chunk.js"
+  ]
+}
