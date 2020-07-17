@@ -16,7 +16,21 @@ const Home = () => {
           <p>Github:<a href="https://github.com/JTLaMarre">my github profile</a></p>
           <p>Linkedin:<a href="https://www.linkedin.com/in/jacob-lamarre-6b578629/">my Linkedin</a></p>
           <p>Hi! I'm Jacob, I am a full stack web developer that brings professional problem solving and relation skills to the table from my time as a pharmacy technician! Working with different pharmacy systems has given me a mountain of
-            practice with problem solving and inputting data with minimal mistakes.Looking forward to the exciting challenges programming will bring my way. I love building fun projects in React.</p>
+            practice with problem solving and inputting data with minimal mistakes.Looking forward to the exciting challenges programming will bring my way. I love building fun projects in React. Front end work in general is exciting and allows me to either channel some of my own creativity or bring someone elses vision to the screen from given specs.</p>
+
+            <h4 className="is-4">Technology proficiencies:</h4>
+            <p>the following are technologies I am comfortably proficient with</p>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>Jquery</li>
+                <li>React</li>
+                <li>Bootsrap</li>
+                <li>Bulma</li>
+                <li>mongodb</li>
+                <li>mongoose</li>
+            </ul>
       </div>
   </div>
         <Footer/>
