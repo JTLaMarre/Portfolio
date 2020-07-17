@@ -7,7 +7,7 @@ const Home = () => {
     return(
         <Fragment>
         <Header />
-        <div className="columns is-centered">
+        <div className="columns">
       <div className="column is-one-quarter">
           <img src={require ("../images/mePic.jpg")} alt="Me" id="me"></img>
       </div>
