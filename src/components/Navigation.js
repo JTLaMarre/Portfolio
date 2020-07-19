@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
-import './comp.css'
 import { NavLink } from 'react-router-dom';
-
+import './comp.css'
 const Navigation = () => {
    const [isActive, setisActive]= useState(false)
    return (
