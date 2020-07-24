@@ -23,6 +23,8 @@ const Project =(props)=> {
                     <button onClick={handleFlip} className="button is-info">Flip for info</button>
                 </div>
                 <div className="box">
+                    <h3 className="is-size-5">Technologies Utilized</h3>
+                    <p>{props.tech}</p>
                     <h3 className="is-size-5">Description</h3>
                     <p>{props.description}</p>
                     <br></br>
