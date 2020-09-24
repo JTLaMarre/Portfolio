@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6fd30e3a64c06005660157acb66c9dd",
+    "revision": "8e78c5221c1ffdae998cc19793a52b1b",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "1c2253d00c4fc9aa63e0",
+    "revision": "848c8ba3efc854a93aae",
     "url": "/Portfolio/static/css/main.7ff036ed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.b5065eb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c2253d00c4fc9aa63e0",
-    "url": "/Portfolio/static/js/main.108c0127.chunk.js"
+    "revision": "848c8ba3efc854a93aae",
+    "url": "/Portfolio/static/js/main.d5aabf30.chunk.js"
   },
   {
     "revision": "796235efddf27470bbfe",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "49d691f41a88e30d007e9218e1af68da",
     "url": "/Portfolio/static/media/EmployScreen1.49d691f4.PNG"
+  },
+  {
+    "revision": "0021286df141900528731e22f1785595",
+    "url": "/Portfolio/static/media/HIIT.0021286d.PNG"
   },
   {
     "revision": "fb1bd075d9a171ecc003262f64f13e2f",
