@@ -68,6 +68,15 @@ const Portfolio = (props) => {
             tech:"React, React-router, React-card-flip, swiper.js, Express, Mongoose, Mongodb, Bulma, HTML, CSS",
             id:7
     
+        },
+        {
+            name:"HIIT Timer",
+            img:"/HIIT.PNG",
+            code:"https://github.com/JTLaMarre/HiitTimer",
+            deploy:"https://stark-earth-06173.herokuapp.com/",
+            description:"a react-bootstrap timer for HIIT workouts goes through a number of sets before displaying a rest time",
+            tech:"React, React-bootstrap, Express, Node, CSS",
+            id:8
         }
     ]
 
